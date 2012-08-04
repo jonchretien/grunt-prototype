@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.shell {
+  margin: 0 auto;
+  text-align: left;
+}
